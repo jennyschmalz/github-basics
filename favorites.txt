@@ -1,3 +1,9 @@
+Fav Foods
 1. Chips
 2. Tacos
 3. Pizza
+
+Fav Movies
+1. LOTR 1
+2. LOTR 2
+3. LOTR 3
